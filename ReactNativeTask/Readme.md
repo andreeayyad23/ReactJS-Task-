@@ -32,7 +32,7 @@ A beautifully crafted **React Native mobile app** that fetches user data from a 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/andreeayyad23/ReactJS-Task-/new/master/ReactNativeTask
+git clone https://github.com/andreeayyad23/ReactJS-Task-
 cd ReactNativeTask
 
 # 2. Install dependencies
@@ -47,20 +47,3 @@ Open the app:
 - On emulator: Press `a` for Android or `i` for iOS
 
 ---
-
-### Option B: React Native CLI
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/react-native-user-directory.git
-cd react-native-user-directory
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the app (Android)
-npx react-native run-android
-
-# 3. Run the app (iOS - Mac only)
-npx react-native run-ios
-```
