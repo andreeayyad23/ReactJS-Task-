@@ -28,7 +28,7 @@ A beautifully crafted **React Native mobile app** that fetches user data from a 
 
 ## 🚀 Installation & Running Locally
 
-### Option A: Using [Expo](https://expo.dev)
+ Using [Expo](https://expo.dev)
 
 ```bash
 # 1. Clone the repo
