@@ -29,7 +29,7 @@ A simple and elegant **React Web App** that fetches user data from a public API 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/andreeayyad23/ReactJS-Task-/tree/master/MernTask
+git clone https://github.com/andreeayyad23/ReactJS-Task-
 cd MernTask
 
 # 2. Install all dependencies
