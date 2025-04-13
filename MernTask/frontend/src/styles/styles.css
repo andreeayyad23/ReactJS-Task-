@@ -1,0 +1,197 @@
+/* styles.module.css */
+
+.container {
+  display: flex;
+  flex: 1;
+  background-color: #f8f9fa;
+  flex-direction: column;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  flex: 1;
+}
+
+.searchContainer {
+  padding: 15px;
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.searchInput {
+  height: 40px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  padding: 0 15px;
+  font-size: 16px;
+  border: none;
+  width: 98%;
+}
+
+.listContainer {
+  padding: 0 16px 24px;
+  width: 100%;
+}
+
+.listHeader {
+  padding: 12px 16px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 8px;
+}
+
+.listHeaderText {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #3b82f6;
+  display: flex;
+  flex-direction: row;
+}
+
+.cardContent {
+  flex: 1;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 12px;
+  object-fit: cover;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+
+.email {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.detail {
+  font-size: 14px;
+  color: #444;
+  margin-top: 4px;
+}
+
+.address {
+  font-size: 14px;
+  color: #444;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 12px;
+  background-color: #e0e0e0;
+  align-self: flex-start;
+  margin-top: 4px;
+}
+
+.badgeText {
+  font-size: 12px;
+  font-weight: 500;
+  color: #555;
+}
+
+.statusActive {
+  background-color: #dcfce7;
+  border: 1px solid #86efac;
+}
+
+.statusActiveText {
+  color: #166534;
+}
+
+.statusInactive {
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
+.statusInactiveText {
+  color: #991b1b;
+}
+
+.actionsRow {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.actionButton {
+  padding: 6px 12px;
+  border-radius: 6px;
+  margin-left: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.actionButtonPrimary {
+  background-color: #3b82f6;
+  color: #fff;
+}
+
+.actionButtonText {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.separator {
+  height: 1px;
+  background-color: #f0f0f0;
+  margin: 8px 0;
+}
+
+.error {
+  color: #ff3b30;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+}
+
+.emptyContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  flex: 1;
+}
+
+.emptyText {
+  color: #888;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.listFooter {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.refreshControl {
+  color: #3b82f6;
+}
