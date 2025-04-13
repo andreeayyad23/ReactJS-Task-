@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import UserCard from "../components/UserCard";
 import { useUsers } from "../hooks/useUsers";
 import { filterUsers } from "../utils/filterUsers";
-import PullToRefresh from "react-simple-pull-to-refresh"; // ✅ Import the library
+import PullToRefresh from "react-simple-pull-to-refresh";
 import "../styles/styles.css";
 
 const HomeScreen = () => {
