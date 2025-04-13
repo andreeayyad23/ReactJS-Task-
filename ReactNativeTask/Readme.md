@@ -11,7 +11,7 @@ A beautifully crafted **React Native mobile app** that fetches user data from a 
 ✅ 🔍 Real-time search filter  
 ✅ 🔄 Manual "Refresh" button  
 ✅ ⬇️ Pull-to-refresh (native)  
-✅ 🧹 Clean UI and responsive layout  
+✅ 🧹 Clean UI
 ✅ ⚠️ Graceful error and loading state handling
 
 ---
