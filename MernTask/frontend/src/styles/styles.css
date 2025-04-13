@@ -9,10 +9,10 @@
 
 .center {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  padding: 20px;
-  flex: 1;
+  justify-content: center;
+  gap: 10px;
 }
 
 .searchContainer {

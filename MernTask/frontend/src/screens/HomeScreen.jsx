@@ -46,7 +46,6 @@ const HomeScreen = () => {
             padding: "10px 15px",
             borderRadius: "5px",
             cursor: "pointer",
-            marginTop: 10,
           }}
         >
           Try Again
